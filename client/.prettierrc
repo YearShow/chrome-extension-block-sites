@@ -1,1 +1,4 @@
-{}
+{
+  "max-len": 60,
+  "singleQuote": true
+}
